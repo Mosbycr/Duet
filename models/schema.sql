@@ -1,0 +1,6 @@
+DROP DATABASE IF EXISTS duet_db;
+CREATE DATABASE duet_db;
+
+
+DROP DATABASE IF EXISTS duet_testdb;
+CREATE DATABASE duet_testdb;
