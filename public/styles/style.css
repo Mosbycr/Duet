@@ -6,9 +6,6 @@
 #FFB228 orange-yellow
 
  */
-
-
-
 .intro1, .intro3, .intro5 {
   margin-top: 3rem;
   margin-bottom: 3rem;
@@ -188,7 +185,7 @@ ul {
 .form-control:active {
   /* background: rgb(87, 9, 79); */
   background: transparent;
-  color: #BD512F;
+  color: white;
   height: 3rem;
   font-size: 1.5rem;
   border-top: none;
@@ -472,8 +469,7 @@ body {
   background-image: url("../images/zig-zag.png");
 }
 
-@media screen and (max-width: 992px)
- {
+@media screen and (max-width: 768px) {
   body {
     background: #4c0045;
     border: none;
@@ -506,9 +502,4 @@ body {
   #login-display {
     width: 85%;
   }
-}
-
-select option {
-  background: white !important;
-  color: black !important;
 }
