@@ -3,7 +3,7 @@ A mobile first application that allows users to create a secure personalized acc
 
 Visit our Heroku Deployed Link: https://frozen-castle-36424.herokuapp.com/
 
-Utilized: HTML5, CSS4, BootStrap4, Javascript, jQuery, Node.js, Sequelize, MySQL, REST APIs.
+Utilized: HTML5, CSS4, BootStrap4, Javascript, jQuery, Node.js, Express, Sequelize, MySQL, REST APIs.
 
 ## Installation
 If you would like to download and use this code you will need to:
