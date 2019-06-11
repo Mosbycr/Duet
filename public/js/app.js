@@ -230,6 +230,7 @@ $(".intro5").on("animationend",function(){
   $('.intro6').on('animationend',function(){
   $('.intro7').toggleClass('hidden fadeIn slow')})
   $('.intro7').on('animationend', function(){
+    
 $('#ll0').toggleClass('hidden fadeIn')});
 
 $('body').on('input','#ll0',function(){
@@ -237,6 +238,7 @@ $('body').on('input','#ll0',function(){
 })
 $('body').on('input','#ll1',function(){
   $('#ll2').toggleClass('hidden fadeIn slow')
+  $('#newsub5').toggleClass('hidden fadeIn slow')
 })
 $('body').on('input','#ll2',function(){
   $('#ll3').toggleClass('hidden fadeIn slow')
@@ -245,7 +247,7 @@ $('body').on('input','#ll3',function(){
   $('#ll4').toggleClass('hidden fadeIn slow')
 })
 $('body').on('input','#ll4',function(){
-  $('#newsub5').toggleClass('hidden fadeIn slow')
+  // $('#newsub5').toggleClass('hidden fadeIn slow')
 })
   
 
@@ -638,3 +640,8 @@ $('body').on('input','#ll4',function(){
     });
   }
 });
+
+
+
+
+
